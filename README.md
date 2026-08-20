@@ -18,4 +18,4 @@ Run the code:
 
 java Driver
 
-Don't forget, if you edit the code then recompile it before running.
+2) Just run the jar file
