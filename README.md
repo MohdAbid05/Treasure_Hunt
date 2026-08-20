@@ -1,4 +1,4 @@
-# Treasure Hunt Game
+# Treasure_Hunt Game
 
 Welcome to **Treasure Hunt**! A hidden diamond 💎 is buried randomly somewhere on a 5x5 grid. Two players take turns clicking tiles to find it.
 
