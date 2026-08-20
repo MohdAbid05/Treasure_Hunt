@@ -1,5 +1,16 @@
-How to run from a shell window:
+# 🏴‍☠️ Treasure Hunt Game
 
+> 🎓 **School Project** | A fun, interactive 2-player grid-search game built with Java Swing!
+
+---
+
+## 🎮 What is this?
+Welcome to **Treasure Hunt**! A hidden diamond 💎 is buried randomly somewhere on a 5x5 grid. Two players take turns clicking tiles to find it.
+
+
+
+## 🚀 Quick Start
+1)How to run from a shell window:
 Open console (terminal, command.exe, whatever)
 
 Navigate to inside treasure_hunt folder : 
